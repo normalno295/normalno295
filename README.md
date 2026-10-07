@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm jeffrey Einshtein</h1>
-<h3 align="center">Python Backend developer</h3>
-
-- 🔭 I’m currently working on [Fastapi Monorepo](https://github.com/aibert-enni/fastapi-monorepo)
-
-- 🌱 I’m currently learning **Fastapi**
+<h1 align="center">Hi 👋, I'm Ahmet</h1>
+<h3 align="center">Backend developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aibert-enni](https://github.com/aibert-enni)
 
-- 💬 Ask me about **Django, Fastapi**
-
-- 📫 How to reach me **funny_island@gmail.com**
+- 💬 Ask me about **Python, Golang**
 
 - ⚡ Fun fact **I'm poor as fuck**
 
